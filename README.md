@@ -42,7 +42,8 @@ Click the SESSION_ID Button
 🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)
 
 SEVER ➊
-🌸 SESSION_ID 🌸 ➊https://webpair-mega-jx81.onrender.com/
+🌸 SESSION_ID 🌸 https://github.com/sadiyamin/Lara-MD/blob/main/README.md#sever-
+
 SEVER ❷
 🌸 SESSION_ID 🌸 ❷https://webpair-mega-jx81.onrender.com/
 SEVER ➌
